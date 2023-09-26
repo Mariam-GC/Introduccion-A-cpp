@@ -1,0 +1,3 @@
+Run, hace 2 cosas:
+1 Ejecuta el programa 
+2 compila el programa
